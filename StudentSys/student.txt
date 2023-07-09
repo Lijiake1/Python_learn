@@ -1,0 +1,2 @@
+{'id': '1002', 'name': '李四', 'english': 78, 'python': 56, 'java': 67}
+{'id': '1001', 'name': '张三', 'english': 89, 'python': 98, 'java': 80}
